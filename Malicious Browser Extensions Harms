@@ -1,0 +1,74 @@
+ How Malicious Browser Extensions Can Harm Users
+1. Stealing Sensitive Data
+Malicious extensions can read everything you type or view, including:
+
+Passwords
+
+Credit card numbers
+
+Personal emails or messages
+
+Especially dangerous if they have access to “read and change all your data on all websites”.
+
+2. Tracking Browsing Activity
+Extensions can secretly track:
+
+Browsing history
+
+Search queries
+
+Website visits
+
+This data can be sold to advertisers or used for profiling.
+
+3. Injecting Ads or Redirects
+Some extensions insert unwanted ads, banners, or popups.
+
+Others redirect users to malicious or phishing sites, tricking them into entering sensitive data.
+
+4. Installing Malware
+Extensions can download and execute malicious code.
+
+This may lead to:
+
+Keyloggers (tracking what you type)
+
+Ransomware
+
+Backdoors into your system
+
+5. Hijacking Accounts or Sessions
+If an extension captures authentication tokens or cookies, it can hijack:
+
+Social media sessions
+
+Email access
+
+Cloud storage accounts
+
+6. Changing Browser Settings
+Extensions can:
+
+Change your default search engine or homepage
+
+Block or redirect certain websites
+
+Disable built-in security settings
+
+7. Participating in Botnets
+Infected browsers can become part of a botnet and be used in:
+
+DDoS attacks
+
+Crypto mining
+
+Spam campaigns
+
+How to Stay Safe:
+Only install extensions from trusted developers.
+
+Regularly audit your installed extensions.
+
+Review permissions before installing.
+
+Remove unused or unnecessary add-ons.
